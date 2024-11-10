@@ -39,7 +39,3 @@ Pawsitive Care Vet Clinic is a Veterinary Management System developed in Visual 
 ## Database Configuration
 
 - The program uses a local database (e.g., Microsoft Access) to store all patient data, appointments, and billing information. Make sure to set up the database with the required tables and schema before using the system.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
