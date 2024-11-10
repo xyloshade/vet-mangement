@@ -1,7 +1,3 @@
-Here's a sample README for your "Pawsitive Care Vet Clinic" VB program:
-
----
-
 # Pawsitive Care Vet Clinic
 
 ## Overview
