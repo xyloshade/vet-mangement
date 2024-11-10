@@ -43,11 +43,3 @@ Pawsitive Care Vet Clinic is a Veterinary Management System developed in Visual 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For support or questions, please contact [your-email@example.com].
-
----
-
-Feel free to adjust the details as needed for your specific application!
